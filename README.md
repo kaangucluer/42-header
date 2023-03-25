@@ -35,7 +35,7 @@ C projeleri için zorunlu olan header'ı bu doküman ve dosyalar yardımıyla ku
 ------------
 
 10-) İşlemi tamamladıktan sonra `:wq` komutu ile terminalden çıkın<br>
-11-) Yeni oluşturduğunuz dosyalara header'ınızı çekmek için `:Baslik` yazıp enterlamalısınız.
+11-) Yeni oluşturduğunuz dosyalara header'ınızı çekmek için `:Header` yazıp enterlamalısınız.
 
 ## Dipnot ⭐️
 > İşinize yaradıysa bir yıldız atabilirsiniz...
